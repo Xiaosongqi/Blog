@@ -705,9 +705,9 @@ click_heart:
 ClickShowText:
   enable: true
   text:
-    - 肖
-    - 松
-    - 奇
+    - x
+    - s
+    - q
   fontSize: 15px
   random: false
   mobile: false
